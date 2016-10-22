@@ -4,9 +4,6 @@
   "repository": "https://github.com/exercism/xtcl",
   "active": false,
   "test_pattern": "TODO",
-  "problems": [
-
-  ],
   "deprecated": [
 
   ],
@@ -14,6 +11,9 @@
     "bin"
   ],
   "foregone": [
+
+  ],
+  "exercises": [
 
   ]
 }
