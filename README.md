@@ -16,3 +16,6 @@ The MIT License (MIT)
 
 Copyright (c) 2015 Katrina Owen, _@kytrinyx.com
 
+### Tcl icon
+The Tcl icon was created by [Fant0men at en.wikipedia](https://en.wikipedia.org/wiki/User:Fant0men) and released under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/) license.
+We adapted the icon, creating a black, pink and white version of it to use on Exercism.
