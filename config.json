@@ -9,6 +9,7 @@
   ],
   "ignored": [
     "bin",
+    "docs",
     "img"
   ],
   "foregone": [
