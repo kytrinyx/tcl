@@ -1,4 +1,4 @@
-# xTcl
+# Exercism Tcl Track
 
 Exercism problems in Tcl.
 
